@@ -1,0 +1,643 @@
+{
+  "library": "hang-D-minor",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/hang-D-minor",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/hang-d-minor-opus-48",
+  "branch": "main",
+  "fileCount": 51,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/",
+  "files": [
+    {
+      "file": "A3_01.opus",
+      "name": "A3_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A3_01.opus",
+      "size": 19508,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3_02.opus",
+      "name": "A3_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A3_02.opus",
+      "size": 32513,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3_03.opus",
+      "name": "A3_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A3_03.opus",
+      "size": 27678,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3_04.opus",
+      "name": "A3_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A3_04.opus",
+      "size": 42289,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3_05.opus",
+      "name": "A3_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A3_05.opus",
+      "size": 38009,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4_01.opus",
+      "name": "A4_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A4_01.opus",
+      "size": 36398,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4_02.opus",
+      "name": "A4_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A4_02.opus",
+      "size": 31669,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4_03.opus",
+      "name": "A4_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A4_03.opus",
+      "size": 30639,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4_04.opus",
+      "name": "A4_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A4_04.opus",
+      "size": 38701,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4_05.opus",
+      "name": "A4_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A4_05.opus",
+      "size": 32842,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4_06.opus",
+      "name": "A4_06.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/A4_06.opus",
+      "size": 26980,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb4_01.opus",
+      "name": "Bb4_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/Bb4_01.opus",
+      "size": 22877,
+      "note": "Bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb4_02.opus",
+      "name": "Bb4_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/Bb4_02.opus",
+      "size": 27631,
+      "note": "Bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb4_03.opus",
+      "name": "Bb4_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/Bb4_03.opus",
+      "size": 25152,
+      "note": "Bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb4_04.opus",
+      "name": "Bb4_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/Bb4_04.opus",
+      "size": 20669,
+      "note": "Bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb4_05.opus",
+      "name": "Bb4_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/Bb4_05.opus",
+      "size": 23817,
+      "note": "Bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_01.opus",
+      "name": "C5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/C5_01.opus",
+      "size": 26872,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_02.opus",
+      "name": "C5_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/C5_02.opus",
+      "size": 31512,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_03.opus",
+      "name": "C5_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/C5_03.opus",
+      "size": 18974,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_04.opus",
+      "name": "C5_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/C5_04.opus",
+      "size": 29899,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_05.opus",
+      "name": "C5_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/C5_05.opus",
+      "size": 21223,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_01.opus",
+      "name": "D4_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D4_01.opus",
+      "size": 23874,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_02.opus",
+      "name": "D4_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D4_02.opus",
+      "size": 25898,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_03.opus",
+      "name": "D4_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D4_03.opus",
+      "size": 23784,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_04.opus",
+      "name": "D4_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D4_04.opus",
+      "size": 21830,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_05.opus",
+      "name": "D4_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D4_05.opus",
+      "size": 25962,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_06.opus",
+      "name": "D4_06.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D4_06.opus",
+      "size": 22311,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_07.opus",
+      "name": "D4_07.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D4_07.opus",
+      "size": 14544,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_01.opus",
+      "name": "D5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D5_01.opus",
+      "size": 26139,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_02.opus",
+      "name": "D5_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D5_02.opus",
+      "size": 29147,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_03.opus",
+      "name": "D5_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D5_03.opus",
+      "size": 15505,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_04.opus",
+      "name": "D5_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D5_04.opus",
+      "size": 22047,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_05.opus",
+      "name": "D5_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/D5_05.opus",
+      "size": 24747,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4_01.opus",
+      "name": "E4_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/E4_01.opus",
+      "size": 42559,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4_02.opus",
+      "name": "E4_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/E4_02.opus",
+      "size": 42016,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4_03.opus",
+      "name": "E4_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/E4_03.opus",
+      "size": 36732,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4_04.opus",
+      "name": "E4_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/E4_04.opus",
+      "size": 32559,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4_05.opus",
+      "name": "E4_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/E4_05.opus",
+      "size": 36679,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4_06.opus",
+      "name": "E4_06.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/E4_06.opus",
+      "size": 15900,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4_01.opus",
+      "name": "F4_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/F4_01.opus",
+      "size": 35572,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4_02.opus",
+      "name": "F4_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/F4_02.opus",
+      "size": 31272,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4_03.opus",
+      "name": "F4_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/F4_03.opus",
+      "size": 33094,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4_04.opus",
+      "name": "F4_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/F4_04.opus",
+      "size": 32577,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4_05.opus",
+      "name": "F4_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/F4_05.opus",
+      "size": 30747,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4_06.opus",
+      "name": "F4_06.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/F4_06.opus",
+      "size": 19910,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4_01.opus",
+      "name": "G4_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/G4_01.opus",
+      "size": 26597,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4_02.opus",
+      "name": "G4_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/G4_02.opus",
+      "size": 26473,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4_03.opus",
+      "name": "G4_03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/G4_03.opus",
+      "size": 19692,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4_04.opus",
+      "name": "G4_04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/G4_04.opus",
+      "size": 21609,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4_05.opus",
+      "name": "G4_05.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/G4_05.opus",
+      "size": 25327,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4_06.opus",
+      "name": "G4_06.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/hang-d-minor-opus-48/main/G4_06.opus",
+      "size": 27213,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "57": [
+      "A3_01.opus",
+      "A3_02.opus",
+      "A3_03.opus",
+      "A3_04.opus",
+      "A3_05.opus"
+    ],
+    "62": [
+      "D4_01.opus",
+      "D4_02.opus",
+      "D4_03.opus",
+      "D4_04.opus",
+      "D4_05.opus",
+      "D4_06.opus",
+      "D4_07.opus"
+    ],
+    "64": [
+      "E4_01.opus",
+      "E4_02.opus",
+      "E4_03.opus",
+      "E4_04.opus",
+      "E4_05.opus",
+      "E4_06.opus"
+    ],
+    "65": [
+      "F4_01.opus",
+      "F4_02.opus",
+      "F4_03.opus",
+      "F4_04.opus",
+      "F4_05.opus",
+      "F4_06.opus"
+    ],
+    "67": [
+      "G4_01.opus",
+      "G4_02.opus",
+      "G4_03.opus",
+      "G4_04.opus",
+      "G4_05.opus",
+      "G4_06.opus"
+    ],
+    "69": [
+      "A4_01.opus",
+      "A4_02.opus",
+      "A4_03.opus",
+      "A4_04.opus",
+      "A4_05.opus",
+      "A4_06.opus"
+    ],
+    "70": [
+      "Bb4_01.opus",
+      "Bb4_02.opus",
+      "Bb4_03.opus",
+      "Bb4_04.opus",
+      "Bb4_05.opus"
+    ],
+    "72": [
+      "C5_01.opus",
+      "C5_02.opus",
+      "C5_03.opus",
+      "C5_04.opus",
+      "C5_05.opus"
+    ],
+    "74": [
+      "D5_01.opus",
+      "D5_02.opus",
+      "D5_03.opus",
+      "D5_04.opus",
+      "D5_05.opus"
+    ]
+  }
+}
